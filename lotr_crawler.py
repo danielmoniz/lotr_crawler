@@ -45,7 +45,7 @@ while 1:
 
 # Get a file-like object for the Python Web site's home page.
     site = urllib2.urlopen(crawling)
-    f = open('wiki/' + title, 'w')
+    f = open('wiki/' + strip_title, 'w')
     f.write(repr(body))
     f.close()
 
