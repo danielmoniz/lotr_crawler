@@ -10,8 +10,8 @@
 <div class="wikiaPhotoGallery-slider-body" id="wikiaPhotoGallery-slider-body-0" style="display: none">
 <div class="horizontal">
 <ul>
-<li class="wikiaPhotoGallery-slider-0" id="wikiaPhotoGallery-slider-0-0"><a href="http://lotr.wikia.com/wiki/The_Hobbit_%28films%29"> <img class="wikiaPhotoGallery-slider" height="360" src="http://images1.wikia.nocookie.net/__cb47716/lotr/images/thumb/5/53/Slider-hobbit.jpg/660px-1%2C662%2C0%2C360-Slider-hobbit.jpg" width="660" />
-</a> <div class="description-background"></div>
+<li class="wikiaPhotoGallery-slider-0" id="wikiaPhotoGallery-slider-0-0"><a href="http://lotr.wikia.com/wiki/The_Hobbit_%28films%29"> <img class="wikiaPhotoGallery-slider" height="360" src="images/Lord-of-the-Rings-Wiki/660px-1%2C662%2C0%2C360-Slider-hobbit.jpg" width="660">
+</img></a> <div class="description-background"></div>
 <div class="description">
 <h2>The Hobbit</h2>
 <p>Check out what we know about the upcoming films!</p>
@@ -21,11 +21,11 @@
 </p>
 </div>
 <p class="nav">
-<img height="70" src="http://images1.wikia.nocookie.net/__cb47716/lotr/images/thumb/5/53/Slider-hobbit.jpg/90px-74%2C602%2C0%2C410-Slider-hobbit.jpg" width="90" />
-</p>
+<img height="70" src="images/Lord-of-the-Rings-Wiki/90px-74%2C602%2C0%2C410-Slider-hobbit.jpg" width="90">
+</img></p>
 </li>
-<li class="wikiaPhotoGallery-slider-1" id="wikiaPhotoGallery-slider-0-1"><a href="http://lotr.wikia.com/wiki/Category:Characters"> <img class="wikiaPhotoGallery-slider" height="360" src="http://images2.wikia.nocookie.net/__cb47716/lotr/images/thumb/f/fe/Slider-characters.jpg/660px-1%2C662%2C0%2C360-Slider-characters.jpg" width="660" />
-</a> <div class="description-background"></div>
+<li class="wikiaPhotoGallery-slider-1" id="wikiaPhotoGallery-slider-0-1"><a href="http://lotr.wikia.com/wiki/Category:Characters"> <img class="wikiaPhotoGallery-slider" height="360" src="images/Lord-of-the-Rings-Wiki/660px-1%2C662%2C0%2C360-Slider-characters.jpg" width="660">
+</img></a> <div class="description-background"></div>
 <div class="description">
 <h2>The Fellowship</h2>
 <p>Read about your favorite heroes, and the villains they battle.</p>
@@ -35,11 +35,11 @@
 </p>
 </div>
 <p class="nav">
-<img height="70" src="http://images4.wikia.nocookie.net/__cb47716/lotr/images/thumb/f/fe/Slider-characters.jpg/90px-74%2C602%2C0%2C410-Slider-characters.jpg" width="90" />
-</p>
+<img height="70" src="images/Lord-of-the-Rings-Wiki/90px-74%2C602%2C0%2C410-Slider-characters.jpg" width="90">
+</img></p>
 </li>
-<li class="wikiaPhotoGallery-slider-2" id="wikiaPhotoGallery-slider-0-2"><a href="http://lotr.wikia.com/wiki/Category:Books"> <img class="wikiaPhotoGallery-slider" height="360" src="http://images4.wikia.nocookie.net/__cb47716/lotr/images/thumb/f/fe/Slider-books.jpg/660px-1%2C662%2C0%2C360-Slider-books.jpg" width="660" />
-</a> <div class="description-background"></div>
+<li class="wikiaPhotoGallery-slider-2" id="wikiaPhotoGallery-slider-0-2"><a href="http://lotr.wikia.com/wiki/Category:Books"> <img class="wikiaPhotoGallery-slider" height="360" src="images/Lord-of-the-Rings-Wiki/660px-1%2C662%2C0%2C360-Slider-books.jpg" width="660">
+</img></a> <div class="description-background"></div>
 <div class="description">
 <h2>The Magic of Tolkien</h2>
 <p>Information about the books you know, and maybe some you don't!</p>
@@ -49,11 +49,11 @@
 </p>
 </div>
 <p class="nav">
-<img height="70" src="http://images3.wikia.nocookie.net/__cb47716/lotr/images/thumb/f/fe/Slider-books.jpg/90px-74%2C602%2C0%2C410-Slider-books.jpg" width="90" />
-</p>
+<img height="70" src="images/Lord-of-the-Rings-Wiki/90px-74%2C602%2C0%2C410-Slider-books.jpg" width="90">
+</img></p>
 </li>
-<li class="wikiaPhotoGallery-slider-3" id="wikiaPhotoGallery-slider-0-3"><a href="http://lotr.wikia.com/wiki/Category:Movies"> <img class="wikiaPhotoGallery-slider" height="360" src="http://images2.wikia.nocookie.net/__cb47716/lotr/images/thumb/f/ff/Slider-movies.jpg/660px-1%2C662%2C0%2C360-Slider-movies.jpg" width="660" />
-</a> <div class="description-background"></div>
+<li class="wikiaPhotoGallery-slider-3" id="wikiaPhotoGallery-slider-0-3"><a href="http://lotr.wikia.com/wiki/Category:Movies"> <img class="wikiaPhotoGallery-slider" height="360" src="images/Lord-of-the-Rings-Wiki/660px-1%2C662%2C0%2C360-Slider-movies.jpg" width="660">
+</img></a> <div class="description-background"></div>
 <div class="description">
 <h2>The Magic Comes Alive!</h2>
 <p>Read about the films that brought Middle-earth to the big screen.</p>
@@ -63,8 +63,8 @@
 </p>
 </div>
 <p class="nav">
-<img height="70" src="http://images1.wikia.nocookie.net/__cb47716/lotr/images/thumb/f/ff/Slider-movies.jpg/90px-74%2C602%2C0%2C410-Slider-movies.jpg" width="90" />
-</p>
+<img height="70" src="images/Lord-of-the-Rings-Wiki/90px-74%2C602%2C0%2C410-Slider-movies.jpg" width="90">
+</img></p>
 </li>
 </ul>
 </div>
@@ -77,10 +77,10 @@
 <td style="padding-left:0px; border-bottom:1px solid #d9d9d9;">
 <div style="font-size:160%;border:none;margin: 0;padding:.1em;text-align:center;color:#000">Welcome to the <a href="/wiki/One_Wiki_to_Rule_Them_All" title="One Wiki to Rule Them All">One Wiki to Rule Them All</a>,</div>
 <div style="top:+0.2em;text-align:center;font-size: 95%">the <a class="mw-redirect" href="/wiki/Lord_of_the_Rings" title="Lord of the Rings">Lord of the Rings</a> encyclopedia that <a href="/wiki/Help:Editing" title="Help:Editing">anyone can edit</a>.</div>
-<div id="articlecount" style="width:100%;text-align:center;font-size:85%;">We currently have <a href="/wiki/Special:Statistics" title="Special:Statistics">4,053</a> articles since March 8, 2005</div>
+<div id="articlecount" style="width:100%;text-align:center;font-size:85%;">We currently have <a href="/wiki/Special:Statistics" title="Special:Statistics">4,055</a> articles since March 8, 2005</div>
 </td></tr>
 <tr>
-<td><center><a class="image" data-image-name="Important.png" href="http://images.wikia.com/lotr/images/f/ff/Important.png" id="Important-png"><img alt="Important.png" height="15" src="http://images2.wikia.nocookie.net/__cb20070412221235/lotr/images/thumb/f/ff/Important.png/15px-Important.png" width="15" /></a><font size="-1"><b>Spoiler Warning</b></font><a class="image" data-image-name="Important.png" href="http://images.wikia.com/lotr/images/f/ff/Important.png" id="Important-png"><img alt="Important.png" height="15" src="http://images2.wikia.nocookie.net/__cb20070412221235/lotr/images/thumb/f/ff/Important.png/15px-Important.png" width="15" /></a></center><center><small>This wiki contains <a href="/wiki/Spoiler" title="Spoiler">spoilers</a>. Read at your own risk.</small></center>
+<td><center><a class="image" data-image-name="Important.png" href="http://images.wikia.com/lotr/images/f/ff/Important.png" id="Important-png"><img alt="Important.png" height="15" src="images/Lord-of-the-Rings-Wiki/15px-Important.png" width="15" /></a><font size="-1"><b>Spoiler Warning</b></font><a class="image" data-image-name="Important.png" href="http://images.wikia.com/lotr/images/f/ff/Important.png" id="Important-png"></a></center><center><small>This wiki contains <a href="/wiki/Spoiler" title="Spoiler">spoilers</a>. Read at your own risk.</small></center>
 </td></tr>
 <tr>
 <td style="font-size:95%;text-align:center;color:#000">
@@ -98,43 +98,48 @@
 <table class="mainpage" style="width:100%; padding:0px; background:-moz-linear-gradient(center top , #ffffff 60%, #f2f2f2 100%) repeat scroll 0 0 transparent; background-color:#f2fff4; border: 1px solid #d9d9d9; margin-top:10px;">
 <tr>
 <td style="padding-left:0px; border-bottom:1px solid #d9d9d9;">
-<p><img alt="Feat-art-header.png" height="35" src="http://images1.wikia.nocookie.net/__cb20110325185915/lotr/images/b/b3/Feat-art-header.png" width="188" />
+<p><img alt="Feat-art-header.png" height="35" src="images/Lord-of-the-Rings-Wiki/Feat-art-header.png" width="188" />
 </p>
 </td></tr>
 <tr>
 <td><div style="clear:both"></div>
 <div style="float: right; direction: ltr; margin-left: 1em;">
-<p><a class="image" data-image-name="0006AC40-2CAA-1FD7-8DAB80C328EC0000.jpg" href="http://images.wikia.com/lotr/images/7/75/0006AC40-2CAA-1FD7-8DAB80C328EC0000.jpg" id="x0006AC40-2CAA-1FD7-8DAB80C328EC0000-jpg"><img alt="0006AC40-2CAA-1FD7-8DAB80C328EC0000.jpg" height="152" src="http://images2.wikia.nocookie.net/__cb20060310083002/lotr/images/thumb/7/75/0006AC40-2CAA-1FD7-8DAB80C328EC0000.jpg/100px-0006AC40-2CAA-1FD7-8DAB80C328EC0000.jpg" width="100" /></a>
+<p><a class="image" data-image-name="Gandalf.jpg" href="http://images.wikia.com/lotr/images/6/6b/Gandalf.jpg" id="Gandalf-jpg"><img alt="Gandalf.jpg" height="200" src="images/Lord-of-the-Rings-Wiki/180px-Gandalf.jpg" width="180" /></a>
 </p>
 </div>
-<p><b><a href="/wiki/Meriadoc_Brandybuck" title="Meriadoc Brandybuck">Meriadoc Brandybuck</a></b>, usually referred to as <b>Merry</b>, was a <a class="mw-redirect" href="/wiki/Hobbit" title="Hobbit">Hobbit</a>, and one of <a href="/wiki/Frodo_Baggins" title="Frodo Baggins">Frodo</a>'s closest friends. He loved boats and ponies and had a great interest in the <a class="mw-redirect" href="/wiki/Map" title="Map">maps</a> of <a href="/wiki/Middle-earth" title="Middle-earth">Middle-earth</a>. He was also related to Frodo several times over.
-</p><p>Merry was born in <a href="/wiki/TA_2982" title="TA 2982">TA 2982</a>. He was the only child of <b><a href="/wiki/Saradoc_Brandybuck" title="Saradoc Brandybuck">Saradoc Brandybuck</a></b> (<a href="/wiki/TA_2940" title="TA 2940">TA 2940</a> - <a href="/wiki/Fourth_Age" title="Fourth Age">FO 11</a>), <a href="/wiki/Master_of_Buckland" title="Master of Buckland">Master of Buckland</a>, and <b><a href="/wiki/Esmeralda_Took" title="Esmeralda Took">Esmeralda Took</a></b> (<a href="/wiki/TA_2936" title="TA 2936">TA 2936</a> - ?), the younger sister of Paladin Took, making him first <a href="/wiki/Cousin" title="Cousin">cousins</a> to their son <a href="/wiki/Peregrin_Took" title="Peregrin Took">Pippin</a>, who was clearly his closest friend.
-</p><p>Merry was considered the most perceptive and intelligent of the hobbits: for example, even before <a href="/wiki/Bilbo_Baggins" title="Bilbo Baggins">Bilbo Baggins</a> leaves <a class="mw-redirect" href="/wiki/The_Shire" title="The Shire">the Shire</a>, he knew of the <a href="/wiki/One_Ring" title="One Ring">One Ring</a> and its power. He guarded <a href="/wiki/Bag_End" title="Bag End">Bag End</a> after <a href="/wiki/Bilbo_Baggins" title="Bilbo Baggins">Bilbo</a>'s <a href="/wiki/Bilbo%27s_Farewell_Birthday_Party" title="Bilbo's Farewell Birthday Party">party</a>, protecting Frodo from the various and often unwanted guests. He also was the force behind "the Conspiracy" of <a href="/wiki/Samwise_Gamgee" title="Samwise Gamgee">Sam</a>, Pippin, <a href="/wiki/Fredegar_Bolger" title="Fredegar Bolger">Fredegar Bolger</a> (more commonly known as "Fatty", due to his plump form), and himself to help Frodo. Thus, even before the <a href="/wiki/Quest_of_the_Ring" title="Quest of the Ring">Quest of the Ring</a> begins, Merry was well prepared and organised; he assembled their gear and brought <a href="/wiki/Pony" title="Pony">ponies</a>. His shortcut through the <a href="/wiki/Old_Forest" title="Old Forest">Old Forest</a> did not serve them well, though they were saved by <a href="/wiki/Tom_Bombadil" title="Tom Bombadil">Tom Bombadil</a>, and were not pursued by the Black Riders. At the <a href="/wiki/Barrow-downs" title="Barrow-downs">Barrow-downs</a>, he acquired his <a class="mw-redirect" href="/wiki/Sword" title="Sword">sword</a>, a work of <a href="/wiki/N%C3%BAmenor" title="Númenor">Westernesse</a>.
-</p><p><b><a href="/wiki/Meriadoc_Brandybuck" title="Meriadoc Brandybuck">Read More</a></b>
+<p><b><a href="/wiki/Gandalf" title="Gandalf">Gandalf</a></b> was an <a class="mw-redirect" href="/wiki/Istar" title="Istar">Istar</a> wizard.
+</p><p>In the <a href="/wiki/Undying_Lands" title="Undying Lands">Undying Lands</a>, Gandalf was a <a class="mw-redirect" href="/wiki/Maia" title="Maia">Maia</a> spirit called Olórin. He lived in the <a href="/wiki/Gardens_of_Lorien" title="Gardens of Lorien">Gardens of Lorien</a> and would often visit <a class="mw-redirect" href="/wiki/Nienna_the_Compassionate" title="Nienna the Compassionate">Nienna the Compassionate</a>.
+In circa TA 1000 (Third Age), he was chosen as one of the Istari wizards who were sent to <a href="/wiki/Middle-earth" title="Middle-earth">Middle-earth</a>. During this time, he was known by many names: 'Gandalf the Grey' (In <a href="/wiki/Westron" title="Westron">Westron</a>), 'Mithrandir' (by the <a href="/wiki/Elves" title="Elves">Elves</a>), 'Tharkûn' (by the <a href="/wiki/Dwarves" title="Dwarves">Dwarves</a>), and 'Incanus' (by the <a href="/wiki/Haradrim" title="Haradrim">Haradrim</a>). He was given the form of a bearded old man in a grey cloak, pointed hat and staff. 
+When he arrived in the <a class="mw-redirect" href="/wiki/Grey_Havens" title="Grey Havens">Grey Havens</a>, he was given <a href="/wiki/Narya" title="Narya">Narya</a> (the ring of fire) by <a href="/wiki/C%C3%ADrdan" title="Círdan">Círdan</a>.
+</p><p>For over 2000 years, Gandalf the Grey worked against the rising evil powers in Middle-earth. 
+In <a href="/wiki/TA_2941" title="TA 2941">TA 2941</a>, Gandalf led a quest to the <a href="/wiki/Lonely_Mountain" title="Lonely Mountain">Lonely Mountain</a> where <a href="/wiki/Smaug" title="Smaug">Smaug</a> the <a class="mw-redirect" href="/wiki/Dragon" title="Dragon">Dragon</a> was slain. During the quest, Gandalf acquired the sword <a href="/wiki/Glamdring" title="Glamdring">Glamdring</a> and <a href="/wiki/Bilbo_Baggins" title="Bilbo Baggins">Bilbo Baggins</a> found the <a href="/wiki/One_Ring" title="One Ring">One Ring</a>.
+In <a href="/wiki/TA_3018" title="TA 3018">TA 3018</a>, Gandalf came to <a href="/wiki/Frodo_Baggins" title="Frodo Baggins">Frodo Baggins</a> and initiated the <a href="/wiki/Quest_of_the_Ring" title="Quest of the Ring">Quest of the Ring</a>. In <a href="/wiki/Rivendell" title="Rivendell">Rivendell</a>, he became a member of the <a href="/wiki/Fellowship_of_the_Ring" title="Fellowship of the Ring">Fellowship of the Ring</a> and led his companions through many different perils and adventures.
+However, in the <a class="mw-redirect" href="/wiki/Mines_of_Moria" title="Mines of Moria">Mines of Moria</a>, upon the <a href="/wiki/Bridge_of_Khazad-d%C3%BBm" title="Bridge of Khazad-dûm">Bridge of Khazad-dûm</a>, Gandalf faced a <a href="/wiki/Balrog" title="Balrog">Balrog</a>. He claimed to be "A servant of the <a href="/wiki/Secret_Fire" title="Secret Fire">Secret Fire</a>...wielder of the <a href="/wiki/Flame_of_Anor" title="Flame of Anor">Flame of Anor</a>." No one knows what he meant by the <a href="/wiki/Flame_of_Anor" title="Flame of Anor">Flame of Anor</a>. The wizard was pulled from the bridge when he toppled the Balrog from it and appeared (to the Fellowship) to have been slain.  This was not the case, and Gandalf slew the Balrog but lost his strength and died.
+</p><p><b><a href="/wiki/Gandalf" title="Gandalf">Read More</a></b>
 </p>
 </td></tr>
 </table>
 <table class="mainpage" style="width:100%; padding:0px; background:-moz-linear-gradient(center top , #ffffff 60%, #f2f2f2 100%) repeat scroll 0 0 transparent; background-color:#f2fff4; border: 1px solid #d9d9d9; margin-top:10px;">
 <tr>
 <td style="padding-left:0px; border-bottom:1px solid #d9d9d9;">
-<p><img alt="Vid-header.png" height="36" src="http://images1.wikia.nocookie.net/__cb20110325185752/lotr/images/9/9a/Vid-header.png" width="85" />
+<p><img alt="Vid-header.png" height="36" src="images/Lord-of-the-Rings-Wiki/Vid-header.png" width="85" />
 </p>
 </td></tr>
 <tr>
 <td>
 <p><i>The One Wiki to Rule them All</i> includes videos; <a class="mw-redirect" href="/wiki/Youtube" title="Youtube">Youtube</a> videos can be added to any page. These videos give a brief overview to the Lord of the Rings:
 </p>
-<div class="thumb tright"> <div class="thumbinner" style="width:500px;"> <embed allowfullscreen="true" allowscriptaccess="always" height="284" pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://www.youtube.com/v/A2m2x8qJcGQ&amp;enablejsapi=1&amp;fs=1&amp;hd=1" type="application/x-shockwave-flash" width="500" wmode="transparent"> </embed> <div class="thumbcaption"> <div class="magnify"><a class="internal" href="/wiki/Video:The_Hobbit:_Peter_Jackson%27s_First_Video_Blog_from_the_Set"><img alt="" height="11" src="http://images.wikia.nocookie.net/common/__cb47714/skins/common/images/magnify-clip.png" width="15" /></a></div> </div> </div> </div>
+<div class="thumb tright"> <div class="thumbinner" style="width:500px;"> <embed allowfullscreen="true" allowscriptaccess="always" height="284" pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://www.youtube.com/v/A2m2x8qJcGQ&amp;enablejsapi=1&amp;fs=1&amp;hd=1" type="application/x-shockwave-flash" width="500" wmode="transparent"> </embed> <div class="thumbcaption"> <div class="magnify"><a class="internal" href="/wiki/Video:The_Hobbit:_Peter_Jackson%27s_First_Video_Blog_from_the_Set"><img alt="" height="11" src="images/Lord-of-the-Rings-Wiki/magnify-clip.png" width="15" /></a></div> </div> </div> </div>
 </td></tr>
 </table>
 <table class="mainpage" style="width:100%; padding:0px; background:-moz-linear-gradient(center top , #ffffff 60%, #f2f2f2 100%) repeat scroll 0 0 transparent; background-color:#f2fff4; border: 1px solid #d9d9d9; margin-top:10px;">
 <tr>
 <td style="padding-left:0px; border-bottom:1px solid #d9d9d9;">
-<p><img alt="Feat-poll-header.png" height="37" src="http://images2.wikia.nocookie.net/__cb20110325185834/lotr/images/0/02/Feat-poll-header.png" width="157" />
+<p><img alt="Feat-poll-header.png" height="37" src="images/Lord-of-the-Rings-Wiki/Feat-poll-header.png" width="157" />
 </p>
 </td></tr>
 <tr>
-<td><!-- AjaxPoll #0 --><!-- s:poll --><div class="ajax-poll" id="ajax-poll-A683D3332831E6E49B4786650253241A"><div class="header">Of the current film adaptations, which one do you feel stayed closest to the story in the original novel?	</div><div class="center" id="wpPollStatusA683D3332831E6E49B4786650253241A"> </div><form action="#" id="axPollA683D3332831E6E49B4786650253241A" method="post"><input name="wpPollId" type="hidden" value="A683D3332831E6E49B4786650253241A" /><div id="ajax-poll-area"><div class="pollAnswer" id="pollAnswer2"><div class="pollAnswerName"><label for="pollAnswerRadioA683D3332831E6E49B4786650253241A"><input id="wpPollRadioA683D3332831E6E49B4786650253241A" name="wpPollRadioA683D3332831E6E49B4786650253241A" type="radio" value="2" />Fellowship of the Ring			</label></div><div class="pollAnswerVotes" onmouseout='span=this.getElementsByTagName("span")[0];span.title=span.innerHTML;span.innerHTML=tmpPollVar;' onmouseover='span=this.getElementsByTagName("span")[0];tmpPollVar=span.innerHTML;span.innerHTML=span.title;span.title="";'><span id="wpPollVoteA683D3332831E6E49B4786650253241A-2" title="84.46% of all votes">5017</span><div class="wpPollBarA683D3332831E6E49B4786650253241A" id="wpPollBarA683D3332831E6E49B4786650253241A-2" style="width: 84.46%; border:0;"> </div></div></div><div class="pollAnswer" id="pollAnswer3"><div class="pollAnswerName"><label for="pollAnswerRadioA683D3332831E6E49B4786650253241A"><input id="wpPollRadioA683D3332831E6E49B4786650253241A" name="wpPollRadioA683D3332831E6E49B4786650253241A" type="radio" value="3" />The Two Towers			</label></div><div class="pollAnswerVotes" onmouseout='span=this.getElementsByTagName("span")[0];span.title=span.innerHTML;span.innerHTML=tmpPollVar;' onmouseover='span=this.getElementsByTagName("span")[0];tmpPollVar=span.innerHTML;span.innerHTML=span.title;span.title="";'><span id="wpPollVoteA683D3332831E6E49B4786650253241A-3" title="7.02% of all votes">417</span><div class="wpPollBarA683D3332831E6E49B4786650253241A" id="wpPollBarA683D3332831E6E49B4786650253241A-3" style="width: 7.02%; border:0;"> </div></div></div><div class="pollAnswer" id="pollAnswer4"><div class="pollAnswerName"><label for="pollAnswerRadioA683D3332831E6E49B4786650253241A"><input id="wpPollRadioA683D3332831E6E49B4786650253241A" name="wpPollRadioA683D3332831E6E49B4786650253241A" type="radio" value="4" />Return of the King			</label></div><div class="pollAnswerVotes" onmouseout='span=this.getElementsByTagName("span")[0];span.title=span.innerHTML;span.innerHTML=tmpPollVar;' onmouseover='span=this.getElementsByTagName("span")[0];tmpPollVar=span.innerHTML;span.innerHTML=span.title;span.title="";'><span id="wpPollVoteA683D3332831E6E49B4786650253241A-4" title="8.52% of all votes">506</span><div class="wpPollBarA683D3332831E6E49B4786650253241A" id="wpPollBarA683D3332831E6E49B4786650253241A-4" style="width: 8.52%; border:0;"> </div></div></div><br style="clear: both;" /><div>The poll was created at 12:59 on March 25, 2011, and so far <span class="total" id="wpPollTotalA683D3332831E6E49B4786650253241A">5940</span> people voted.			</div></div><input id="axPollSubmitA683D3332831E6E49B4786650253241A" name="wpVote" type="submit" value="Vote!" /><span id="pollSubmittingInfoA683D3332831E6E49B4786650253241A" style="padding-left: 10px; visibility: hidden;">Please wait, submitting your vote...		</span></form></div><!-- e:poll -->
+<td><!-- AjaxPoll #0 --><!-- s:poll --><div class="ajax-poll" id="ajax-poll-A683D3332831E6E49B4786650253241A"><div class="header">Of the current film adaptations, which one do you feel stayed closest to the story in the original novel?	</div><div class="center" id="wpPollStatusA683D3332831E6E49B4786650253241A"> </div><form action="#" id="axPollA683D3332831E6E49B4786650253241A" method="post"><input name="wpPollId" type="hidden" value="A683D3332831E6E49B4786650253241A" /><div id="ajax-poll-area"><div class="pollAnswer" id="pollAnswer2"><div class="pollAnswerName"><label for="pollAnswerRadioA683D3332831E6E49B4786650253241A"><input id="wpPollRadioA683D3332831E6E49B4786650253241A" name="wpPollRadioA683D3332831E6E49B4786650253241A" type="radio" value="2" />Fellowship of the Ring			</label></div><div class="pollAnswerVotes" onmouseout='span=this.getElementsByTagName("span")[0];span.title=span.innerHTML;span.innerHTML=tmpPollVar;' onmouseover='span=this.getElementsByTagName("span")[0];tmpPollVar=span.innerHTML;span.innerHTML=span.title;span.title="";'><span id="wpPollVoteA683D3332831E6E49B4786650253241A-2" title="84.51% of all votes">5041</span><div class="wpPollBarA683D3332831E6E49B4786650253241A" id="wpPollBarA683D3332831E6E49B4786650253241A-2" style="width: 84.51%; border:0;"> </div></div></div><div class="pollAnswer" id="pollAnswer3"><div class="pollAnswerName"><label for="pollAnswerRadioA683D3332831E6E49B4786650253241A"><input id="wpPollRadioA683D3332831E6E49B4786650253241A" name="wpPollRadioA683D3332831E6E49B4786650253241A" type="radio" value="3" />The Two Towers			</label></div><div class="pollAnswerVotes" onmouseout='span=this.getElementsByTagName("span")[0];span.title=span.innerHTML;span.innerHTML=tmpPollVar;' onmouseover='span=this.getElementsByTagName("span")[0];tmpPollVar=span.innerHTML;span.innerHTML=span.title;span.title="";'><span id="wpPollVoteA683D3332831E6E49B4786650253241A-3" title="6.97% of all votes">416</span><div class="wpPollBarA683D3332831E6E49B4786650253241A" id="wpPollBarA683D3332831E6E49B4786650253241A-3" style="width: 6.97%; border:0;"> </div></div></div><div class="pollAnswer" id="pollAnswer4"><div class="pollAnswerName"><label for="pollAnswerRadioA683D3332831E6E49B4786650253241A"><input id="wpPollRadioA683D3332831E6E49B4786650253241A" name="wpPollRadioA683D3332831E6E49B4786650253241A" type="radio" value="4" />Return of the King			</label></div><div class="pollAnswerVotes" onmouseout='span=this.getElementsByTagName("span")[0];span.title=span.innerHTML;span.innerHTML=tmpPollVar;' onmouseover='span=this.getElementsByTagName("span")[0];tmpPollVar=span.innerHTML;span.innerHTML=span.title;span.title="";'><span id="wpPollVoteA683D3332831E6E49B4786650253241A-4" title="8.52% of all votes">508</span><div class="wpPollBarA683D3332831E6E49B4786650253241A" id="wpPollBarA683D3332831E6E49B4786650253241A-4" style="width: 8.52%; border:0;"> </div></div></div><br style="clear: both;" /><div>The poll was created at 12:59 on March 25, 2011, and so far <span class="total" id="wpPollTotalA683D3332831E6E49B4786650253241A">5965</span> people voted.			</div></div><input id="axPollSubmitA683D3332831E6E49B4786650253241A" name="wpVote" type="submit" value="Vote!" /><span id="pollSubmittingInfoA683D3332831E6E49B4786650253241A" style="padding-left: 10px; visibility: hidden;">Please wait, submitting your vote...		</span></form></div><!-- e:poll -->
 <p><br />
 </p>
 </td></tr>
@@ -147,17 +152,17 @@
 <table class="mainpage" style="width:100%; padding:0px; background:-moz-linear-gradient(center top , #ffffff 60%, #f2f2f2 100%) repeat scroll 0 0 transparent; background-color:#f2fff4; border: 1px solid #d9d9d9; margin-top:10px;">
 <tr>
 <td style="padding-left:0px; border-bottom:1px solid #d9d9d9;">
-<p><img alt="Feat-pic-header.png" height="37" src="http://images3.wikia.nocookie.net/__cb20110325185854/lotr/images/d/d4/Feat-pic-header.png" width="183" />
+<p><img alt="Feat-pic-header.png" height="37" src="images/Lord-of-the-Rings-Wiki/Feat-pic-header.png" width="183" />
 </p>
 </td></tr>
 <tr>
 <td><div style="text-align: center;">
 <div style="clear:both"></div>
 <div style="direction: ltr; margin-left: 1em;">
-<p><a class="image" data-image-name="Rideoftherohirrim.jpg" href="http://images.wikia.com/lotr/images/c/cf/Rideoftherohirrim.jpg" id="Rideoftherohirrim-jpg"><img alt="Rideoftherohirrim.jpg" height="75" src="http://images1.wikia.nocookie.net/__cb20060311102049/lotr/images/thumb/c/cf/Rideoftherohirrim.jpg/175px-Rideoftherohirrim.jpg" width="175" /></a>
+<p><a class="image" data-image-name="LOTR78 Saruman.JPG" href="http://images.wikia.com/lotr/images/d/d2/LOTR78_Saruman.JPG" id="LOTR78_Saruman-JPG"><img alt="LOTR78 Saruman.JPG" height="98" src="images/Lord-of-the-Rings-Wiki/175px-LOTR78_Saruman.JPG" width="175" /></a>
 </p>
 </div>
-<p>Ride of the <a href="/wiki/Rohirrim" title="Rohirrim">Rohirrim</a>
+<p><a href="/wiki/Saruman" title="Saruman">Saruman</a> from the <a href="/wiki/The_Lord_of_the_Rings_(1978_film)" title="The Lord of the Rings (1978 film)">1978 film</a>
 </p>
 </div>
 </td></tr>
@@ -170,7 +175,7 @@
 <table class="mainpage" style="width:100%; padding:0px; background:-moz-linear-gradient(center top , #ffffff 60%, #f2f2f2 100%) repeat scroll 0 0 transparent; background-color:#f2fff4; border: 1px solid #d9d9d9; margin-top:10px;">
 <tr>
 <td style="padding-left:0px; border-bottom:1px solid #d9d9d9;">
-<p><img alt="Coll-header.png" height="37" src="http://images2.wikia.nocookie.net/__cb20110325185735/lotr/images/1/1b/Coll-header.png" width="313" />
+<p><img alt="Coll-header.png" height="37" src="images/Lord-of-the-Rings-Wiki/Coll-header.png" width="313" />
 </p>
 </td></tr>
 <tr>
@@ -190,7 +195,7 @@
 <table class="mainpage" style="width:100%; padding:0px; background:-moz-linear-gradient(center top , #ffffff 60%, #f2f2f2 100%) repeat scroll 0 0 transparent; background-color:#f2fff4; border: 1px solid #d9d9d9; margin-top:10px;">
 <tr>
 <td style="padding-left:0px; border-bottom:1px solid #d9d9d9;">
-<p><img alt="Favou-links-header.png" height="37" src="http://images3.wikia.nocookie.net/__cb20110325185356/lotr/images/6/6e/Favou-links-header.png" width="170" />
+<p><img alt="Favou-links-header.png" height="37" src="images/Lord-of-the-Rings-Wiki/Favou-links-header.png" width="170" />
 </p>
 </td></tr>
 <tr>
@@ -236,7 +241,7 @@
 <table class="mainpage" style="width:100%; padding:0px; background:-moz-linear-gradient(center top , #ffffff 60%, #f2f2f2 100%) repeat scroll 0 0 transparent; background-color:#f2fff4; border: 1px solid #d9d9d9; margin-top:10px;">
 <tr>
 <td style="padding-left:0px; border-bottom:1px solid #d9d9d9;">
-<p><img alt="News-header.png" height="37" src="http://images2.wikia.nocookie.net/__cb20110325185335/lotr/images/a/a7/News-header.png" width="151" />
+<p><img alt="News-header.png" height="37" src="images/Lord-of-the-Rings-Wiki/News-header.png" width="151" />
 </p>
 </td></tr>
 <tr>
@@ -252,7 +257,7 @@
 <table class="mainpage" style="width:100%; padding:0px; background:-moz-linear-gradient(center top , #ffffff 60%, #f2f2f2 100%) repeat scroll 0 0 transparent; background-color:#f2fff4; border: 1px solid #d9d9d9; margin-top:10px;">
 <tr>
 <td style="padding-left:0px; border-bottom:1px solid #d9d9d9;">
-<p><img alt="Blogs-header.png" height="37" src="http://images2.wikia.nocookie.net/__cb20110325185314/lotr/images/3/32/Blogs-header.png" width="114" />
+<p><img alt="Blogs-header.png" height="37" src="images/Lord-of-the-Rings-Wiki/Blogs-header.png" width="114" />
 </p>
 </td></tr>
 <tr>
@@ -262,9 +267,9 @@
 <ul>
 <li class="WikiaBlogListingPost">
 <div class="commentslikes">
-<a data-id="comment" href="/wiki/User_blog:CutieOwl/Whats_your_favorite_quote%3F#WikiaArticleComments" title=""><span class="commentsbubble">12</span></a>
+<a data-id="comment" href="/wiki/User_blog:CutieOwl/Whats_your_favorite_quote%3F#WikiaArticleComments" title=""><span class="commentsbubble">15</span></a>
 </div>
-<img alt="CutieOwl" class="avatar" height="48" src="http://images.wikia.com/messaging/images//thumb/e/e5/Avatar4.jpg/48px-Avatar4.jpg" width="48" /> <div class="author-details">
+<img alt="CutieOwl" class="avatar" height="48" src="images/Lord-of-the-Rings-Wiki/48px-Avatar4.jpg" width="48" /> <div class="author-details">
 <h1><a href="/wiki/User_blog:CutieOwl/Whats_your_favorite_quote%3F">Whats your favorite quote?</a></h1>
 <span>February 6, 2012 by <a href="/wiki/User:CutieOwl">CutieOwl</a></span>
 </div>
@@ -277,7 +282,7 @@
 <div class="commentslikes">
 <a data-id="comment" href="/wiki/User_blog:SunflashtheAwesome/The_LEGO-ship_of_the_Ring!#WikiaArticleComments" title=""><span class="commentsbubble">13</span></a>
 </div>
-<img alt="SunflashtheAwesome" class="avatar" height="48" src="http://images.wikia.com/common/avatars/thumb/a/ac/4501794.png/48px-4501794.png?cb=1320355639" width="48" /> <div class="author-details">
+<img alt="SunflashtheAwesome" class="avatar" height="48" src="images/Lord-of-the-Rings-Wiki/48px-4501794.png?cb=1320355639" width="48" /> <div class="author-details">
 <h1><a href="/wiki/User_blog:SunflashtheAwesome/The_LEGO-ship_of_the_Ring!">The LEGO-ship of the Ring!</a></h1>
 <span>January 31, 2012 by <a href="/wiki/User:SunflashtheAwesome">SunflashtheAwesome</a></span>
 </div>
@@ -290,7 +295,7 @@ for, I give you, the Fellowship in LEG…</p>
 <div class="commentslikes">
 <a data-id="comment" href="/wiki/User_blog:SunflashtheAwesome/The_Epic_Baddies_of_LEGO_Lord_of_the_Rings#WikiaArticleComments" title=""><span class="commentsbubble">5</span></a>
 </div>
-<img alt="SunflashtheAwesome" class="avatar" height="48" src="http://images.wikia.com/common/avatars/thumb/a/ac/4501794.png/48px-4501794.png?cb=1320355639" width="48" /> <div class="author-details">
+ <div class="author-details">
 <h1><a href="/wiki/User_blog:SunflashtheAwesome/The_Epic_Baddies_of_LEGO_Lord_of_the_Rings">The Epic Baddies of LEGO Lord of the Rings</a></h1>
 <span>January 31, 2012 by <a href="/wiki/User:SunflashtheAwesome">SunflashtheAwesome</a></span>
 </div>
@@ -301,9 +306,9 @@ get bad. Now, LEGO releases the bad …</p>
 </li>
 <li class="WikiaBlogListingPost">
 <div class="commentslikes">
-<a data-id="comment" href="/wiki/User_blog:SunflashtheAwesome/What_is_your_favorite_scene_from_the_trilogy%3F#WikiaArticleComments" title=""><span class="commentsbubble">32</span></a>
+<a data-id="comment" href="/wiki/User_blog:SunflashtheAwesome/What_is_your_favorite_scene_from_the_trilogy%3F#WikiaArticleComments" title=""><span class="commentsbubble">41</span></a>
 </div>
-<img alt="SunflashtheAwesome" class="avatar" height="48" src="http://images.wikia.com/common/avatars/thumb/a/ac/4501794.png/48px-4501794.png?cb=1320355639" width="48" /> <div class="author-details">
+ <div class="author-details">
 <h1><a href="/wiki/User_blog:SunflashtheAwesome/What_is_your_favorite_scene_from_the_trilogy%3F">What is your favorite scene from the trilogy?</a></h1>
 <span>January 29, 2012 by <a href="/wiki/User:SunflashtheAwesome">SunflashtheAwesome</a></span>
 </div>
@@ -322,32 +327,33 @@ would have to be the scene in RoTK when…</p>
 <table class="mainpage" style="width:100%; padding:0px; background:-moz-linear-gradient(center top , #ffffff 60%, #f2f2f2 100%) repeat scroll 0 0 transparent; background-color:#f2fff4; border: 1px solid #d9d9d9; margin-top:10px;">
 <tr>
 <td style="padding-left:0px; border-bottom:1px solid #d9d9d9;">
-<p><img alt="Help-header.png" height="37" src="http://images1.wikia.nocookie.net/__cb20110325185248/lotr/images/d/de/Help-header.png" width="135" />
+<p><img alt="Help-header.png" height="37" src="images/Lord-of-the-Rings-Wiki/Help-header.png" width="135" />
 </p>
 </td></tr>
 <tr>
-<td><center>Even with <a href="/wiki/Special:Statistics" title="Special:Statistics">4,053</a> articles, and <a href="/wiki/Special:Statistics" title="Special:Statistics">2,819</a> files, we still need YOUR help expanding and adding articles to the wiki!</center>
+<td><center>Even with <a href="/wiki/Special:Statistics" title="Special:Statistics">4,055</a> articles, and <a href="/wiki/Special:Statistics" title="Special:Statistics">2,820</a> files, we still need YOUR help expanding and adding articles to the wiki!</center>
 <hr />
 <div style="font-variant: small-caps"><center><a href="/wiki/Special:NewPages" title="Special:NewPages">New pages</a> | <a class="extiw" href="http://community.wikia.com/wiki/Help:Tutorial" title="wikia:Help:Tutorial">Wiki tutorial</a> | <a class="extiw" href="http://community.wikia.com/wiki/Category:Help" title="wikia:Category:Help">Help pages</a></center></div>
 <hr />
 <center>If you're new to wikia, please use the above links to get started.</center>
 <center>If you already have editing experience, and you have an article relating to <b>Lord of the Rings</b> to contribute, use the box below to create it:</center>
 <div align="center" class="createbox">
-<p></p><form action="/index.php" class="createboxForm" method="get" name="createbox">
-<input name="action" type="hidden" value="create" />
+<p><form action="/index.php" class="createboxForm" method="get" name="createbox">
+<input name="action" type="hidden" value="create">
 <input name="prefix" type="hidden" value="" />
 <input name="preload" type="hidden" value="" />
 <input name="editintro" type="hidden" value="" />
 <input class="createboxInput" name="title" size="30" type="text" value="" />
 <input class="createboxButton" name="create" type="submit" value="Create" />
-</form></div><br />
+</input></form></p>
+</div><br />
 <p><b>Thank you!</b>
 </p>
 </td></tr></table>
 <table class="mainpage" style="width:100%; padding:0px; background:-moz-linear-gradient(center top , #ffffff 60%, #f2f2f2 100%) repeat scroll 0 0 transparent; background-color:#f2fff4; border: 1px solid #d9d9d9; margin-top:10px;">
 <tr>
 <td style="padding-left:0px; border-bottom:1px solid #d9d9d9;">
-<p><img alt="Legal-header.png" height="37" src="http://images2.wikia.nocookie.net/__cb20110325185128/lotr/images/b/bd/Legal-header.png" width="189" />
+<p><img alt="Legal-header.png" height="37" src="images/Lord-of-the-Rings-Wiki/Legal-header.png" width="189" />
 </p>
 </td></tr>
 <tr>
@@ -357,7 +363,7 @@ would have to be the scene in RoTK when…</p>
 </td></tr></table>
 <table cellpadding="5" cellspacing="2" style="padding:0.5em; margin-top:1em; width:100%; background:-moz-linear-gradient(center top , #ffffff 60%, #f2f2f2 100%) repeat scroll 0 0 transparent; background-color:#f2fff4; border: 1px solid #d9d9d9;">
 <tr>
-<td> <div class="plainlinks"><a class="text" href="http://community.wikia.com/wiki/Entertainment"><img alt="Wikia_entertainment_190.png" src="http://images3.wikia.nocookie.net/central/images/3/32/Wikia_entertainment_190.png" /></a></div>
+<td> <div class="plainlinks"><a class="text" href="http://community.wikia.com/wiki/Entertainment"><img alt="Wikia_entertainment_190.png" src="images/Lord-of-the-Rings-Wiki/Wikia_entertainment_190.png" /></a></div>
 </td><td style="text-align:right;" valign="top">
 <p><big><b>Wikia's Fantasy Wikis</b></big><br />
 </p><p><b><a class="extiw" href="http://buffy.wikia.com/wiki/" title="w:c:buffy">Buffyverse</a></b> • <b><a class="extiw" href="http://charmed.wikia.com/wiki/" title="w:c:charmed">Charmed</a></b> • <b><a class="extiw" href="http://conan.wikia.com/wiki/" title="w:c:conan">Conan</a></b> •  <b><a class="extiw" href="http://conmyth.wikia.com/wiki/" title="w:c:conmyth">Constructed Mythology</a></b> • <b><a class="extiw" href="http://darkshadows.wikia.com/wiki/" title="w:c:darkshadows">Dark Shadows</a></b><br />
@@ -368,9 +374,9 @@ would have to be the scene in RoTK when…</p>
 <!-- 
 NewPP limit report
 Preprocessor node count: 83/1000000
-Post-expand include size: 5906/2097152 bytes
+Post-expand include size: 6055/2097152 bytes
 Template argument size: 0/2097152 bytes
 Expensive parser function count: 0/100
---><!-- Saved in parser cache with key lotr:pcache:idhash:2-0!1!0!!en!2!edit=0 and timestamp 20120213042115 --><div class="printfooter">
+--><!-- Saved in parser cache with key lotr:pcache:idhash:2-0!1!0!!en!2!edit=0 and timestamp 20120215002908 --><div class="printfooter">
 Retrieved from "<a href="http://lotr.wikia.com/wiki/Main_Page">http://lotr.wikia.com/wiki/Main_Page</a>"</div>
 </div>
