@@ -2,9 +2,9 @@ A simple web crawler designed to pull HTML pages from a Lord of the Rings wiki.
 
 The crawler takes an argument for a website to crawl, but defaults to
 lotr.wikia.com. It ceases crawling links after a set limit is reached. The HTML
-from the primary article div is saved in files.
+from the primary article div is saved in files. The images are savedlocally in the wiki/images/(article-title)/(image-name). The HTML source is then modified to use the local images.
 
 eg. $ python lotr_crawler www.google.com
 or $ python lotr_crawler
 
-Please use this wisely. I am not responsible for excess traffic to the wiki.
+This was intended as a learning exercise and not for actual use. Please use this wisely. I am not responsible for excess traffic to the wiki.
