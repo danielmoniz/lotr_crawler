@@ -7,7 +7,7 @@ from the primary article div is saved in files. The images are savedlocally in t
 eg. $ python lotr_crawler www.google.com
 or $ python lotr_crawler
 
-@TODO Make a check for http errors to ensure the crawler does not halt. Remove 
-URL from crawled list if it fails (assuming it has been added already).
+@TODO Make a check for http errors to ensure the crawler does not halt. Remove URL from crawled list if it fails (assuming it has been added already).
+@TODO Extend functionality such that it does not simply search pages with /wiki in their URL. Should work for any site and stick to that domain.
 
 This was intended as a learning exercise and not for actual use. Please use this wisely. I am not responsible for excess traffic to the wiki.

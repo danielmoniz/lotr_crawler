@@ -5,14 +5,23 @@ import re
 import urllib2
 import urlparse
 from bs4 import BeautifulSoup
-from file_functions import try_make_dir, pull_images
+from file_functions import try_make_dir, pull_images, get_full_formatted_url
 
-crawl_limit = 1
+crawl_limit = 5
+#image_limit_per_page = 1
 try:
-    tocrawl = set([sys.argv[1]])
+    tocrawl = sys.argv[1]
 # default to crawling the LotR wiki
 except IndexError:
-    tocrawl = set(['http://www.lotr.wikia.com'])
+    tocrawl = 'http://www.lotr.wikia.com'
+# save base url as the relevant domain. Ensure we stay on that domain
+domain_url_object = urlparse.urlparse(tocrawl)
+# set domain as 'google' in (eg) "http://maps.google.com/toronto?p=1
+domain = domain_url_object[1].split(".")[-2]
+#domain = domain_url_object[1]
+tocrawl = set([tocrawl])
+print 'tocrawl:', tocrawl
+print 'domain:', domain
 crawled = set([])
 
 while 1:
@@ -27,7 +36,12 @@ while 1:
     except:
         continue
     msg = response.read()
-    soup = BeautifulSoup(msg)
+    try:
+        soup = BeautifulSoup(msg)
+# if HTML fails to parse, just move on
+    except:
+        print "Failed to parse page:", crawling
+        continue
 # find script tags and remove them
     to_extract = soup.findAll('script')
     for item in to_extract:
@@ -36,16 +50,16 @@ while 1:
     title = soup.title.string
     strip_title = title.replace(' ', '-')
 
-    try_make_dir("wiki")
-    try_make_dir('wiki/images')
-    soup = pull_images(soup, url, 'wiki/images/' + strip_title  + '/', 'images/' + strip_title + '/')
+    try_make_dir(domain)
+    try_make_dir(domain + '/images')
+    soup = pull_images(soup, url, domain + '/images/' + strip_title  + '/', 'images/' + strip_title + '/')
 
-    body = soup.find(id="WikiaArticle")
-    print title
+    body = soup.find("body")
+    print title, crawling
 
 # Get a file-like object for the Python Web site's home page.
     site = urllib2.urlopen(crawling)
-    f = open('wiki/' + strip_title, 'w')
+    f = open(domain + '/' + strip_title, 'w')
     f.write(repr(body))
     f.close()
 
@@ -63,11 +77,11 @@ while 1:
     if len(crawled) >= crawl_limit:
         break
     for link in (links.pop(0) for _ in xrange(len(links))):
-        if link.startswith('/'):
-            link = 'http://' + url[1] + link
-        elif link.startswith('#'):
-            link = 'http://' + url[1] + url[2] + link
-        elif not link.startswith('http'):
-            link = 'http://' + url[1] + '/' + link
-        if link not in crawled:
+        link_domain = url[1].split(".")[-2]
+        link = get_full_formatted_url(url, link)
+        if link not in crawled and link_domain == domain:
             tocrawl.add(link)
+        # temporary: print off url if the domain does not match
+        elif url[1] != domain:
+            pass
+            #print "Incorrect domain name:", link_domain
