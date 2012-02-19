@@ -8,7 +8,7 @@ def try_make_dir(dir_path):
     a folder. """
     # path_pieces = dir_path.split("/")
     if not os.path.isdir(dir_path):
-        os.mkdirs(dir_path)
+        os.makedirs(dir_path)
 
 def pull_images(soup, url, out_folder, html_folder):
     """ find all images, pull them, and put them in folders
@@ -30,21 +30,22 @@ def pull_images(soup, url, out_folder, html_folder):
         outpath = os.path.join(out_folder, filename)
         html_path = os.path.join(html_folder, filename)
         if image["src"].lower().startswith("http"):
-            full_image_source = image["src"]
+            full_img_source = image["src"]
+        # '//' can account for http and https.
         elif image["src"].lower().startswith("//"):
-            full_image_source = url[0] + ":" + image["src"]
+            full_img_source = url[0] + ":" + image["src"]
         elif image["src"].lower().startswith("/"):
             parsed_url = list(url)
             url = list(url)
             url[2] = img_source
-            full_image_source = urlparse.urlunparse(url)
+            full_img_source = urlparse.urlunparse(url)
             #print "urlretrieve: ", full_img_source, urlretrieve(full_img_source)
         else:
-            print "Image failed to pull:", full_img_source
+            print "Image failed to pull:", img_source
             continue
 
 # retrieve image and replace img src in HTML with local image path
-        urlretrieve(full_image_source, outpath)
+        urlretrieve(full_img_source, outpath)
         new_image = soup.find("img", src=image["src"])
         new_image["src"] = html_path
         soup.find("img", src=image["src"]).replaceWith(new_image)
@@ -64,3 +65,4 @@ def get_full_formatted_url(url, link):
     elif not link.startswith('http'):
         link = 'http://' + url[1] + '/' + link
     return link
+

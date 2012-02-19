@@ -7,7 +7,7 @@ import urlparse
 from bs4 import BeautifulSoup
 from file_functions import try_make_dir, pull_images, get_full_formatted_url
 
-crawl_limit = 5
+crawl_limit = 3
 #image_limit_per_page = 1
 try:
     tocrawl = sys.argv[1]
@@ -23,6 +23,8 @@ tocrawl = set([tocrawl])
 print 'tocrawl:', tocrawl
 print 'domain:', domain
 crawled = set([])
+sites_dir = 'sites/'
+site_dir = 'sites/' + domain
 
 while 1:
     try:
@@ -48,18 +50,17 @@ while 1:
         item.extract() # a BeautifulSoup function for removing tags
 
     title = soup.title.string
-    strip_title = title.strip().replace(' ', '-')
+    local_title = title.strip().replace(' ', '-')
 
-    try_make_dir(domain)
-    try_make_dir(domain + '/images')
-    soup = pull_images(soup, url, domain + '/images/' + strip_title  + '/', 'images/' + strip_title + '/')
+    try_make_dir(site_dir + '/images')
+    soup = pull_images(soup, url, site_dir + '/images/' + local_title  + '/', 'images/' + local_title + '/')
 
     body = soup.find("body")
-    print title, crawling
+    print title + ":", crawling
 
 # Get a file-like object for the Python Web site's home page.
     site = urllib2.urlopen(crawling)
-    f = open(domain + '/' + strip_title, 'w')
+    f = open(site_dir + '/' + local_title, 'w')
     f.write(repr(body))
     f.close()
 
