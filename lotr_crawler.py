@@ -7,7 +7,7 @@ import urlparse
 from bs4 import BeautifulSoup
 from file_functions import try_make_dir, pull_images, get_full_formatted_url
 
-crawl_limit = 5
+crawl_limit = 2
 #image_limit_per_page = 1
 try:
     tocrawl = sys.argv[1]
