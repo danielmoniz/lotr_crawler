@@ -1,4 +1,4 @@
-wiki/*
+sites/*
 *.pyc
 bs4/
 *.swp
