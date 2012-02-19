@@ -1,4 +1,5 @@
 import os
+import urlparse
 from urllib import urlretrieve
 
 def try_make_dir(dir_path):
@@ -29,14 +30,25 @@ def pull_images(soup, url, out_folder, html_folder):
         outpath = os.path.join(out_folder, filename)
         html_path = os.path.join(html_folder, filename)
         if image["src"].lower().startswith("http"):
-            urlretrieve(image["src"], outpath)
-            new_image = soup.find("img", src=image["src"])
-            new_image["src"] = html_path
-            soup.find("img", src=image["src"]).replaceWith(new_image)
+            full_image_source = image["src"]
+        elif image["src"].lower().startswith("//"):
+            full_image_source = url[0] + image["src"]
+        elif image["src"].lower().startswith("/"):
+            parsed_url = list(url)
+            url = list(url)
+            url[2] = img_source
+            full_image_source = urlparse.urlunparse(url)
+            #print "urlretrieve: ", full_img_source, urlretrieve(full_img_source)
+        else:
+            print "Image failed to pull:", full_img_source
+            continue
 
-# Not clear on why the 'else' is not working. Commented out for now.
-        #else:
-            #urlretrieve(urlparse.urlunparse(img_source))
+# retrieve image and replace img src in HTML with local image path
+        urlretrieve(full_image_source, outpath)
+        new_image = soup.find("img", src=image["src"])
+        new_image["src"] = html_path
+        soup.find("img", src=image["src"]).replaceWith(new_image)
+
 
 # return the BeautifulSoup object with the modified image src attributes.
     return soup
