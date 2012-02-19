@@ -1,2 +1,4 @@
 wiki/*
 *.pyc
+bs4/
+*.swp

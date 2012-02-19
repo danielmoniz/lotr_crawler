@@ -8,7 +8,7 @@ def try_make_dir(dir_path):
     a folder. """
     # path_pieces = dir_path.split("/")
     if not os.path.isdir(dir_path):
-        os.mkdir(dir_path)
+        os.mkdirs(dir_path)
 
 def pull_images(soup, url, out_folder, html_folder):
     """ find all images, pull them, and put them in folders
@@ -32,7 +32,7 @@ def pull_images(soup, url, out_folder, html_folder):
         if image["src"].lower().startswith("http"):
             full_image_source = image["src"]
         elif image["src"].lower().startswith("//"):
-            full_image_source = url[0] + image["src"]
+            full_image_source = url[0] + ":" + image["src"]
         elif image["src"].lower().startswith("/"):
             parsed_url = list(url)
             url = list(url)
