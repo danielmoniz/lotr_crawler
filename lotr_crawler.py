@@ -7,7 +7,7 @@ import urlparse
 from bs4 import BeautifulSoup
 from file_functions import try_make_dir, pull_images, get_full_formatted_url
 
-crawl_limit = 2
+crawl_limit = 5
 #image_limit_per_page = 1
 try:
     tocrawl = sys.argv[1]
@@ -48,7 +48,7 @@ while 1:
         item.extract() # a BeautifulSoup function for removing tags
 
     title = soup.title.string
-    strip_title = title.replace(' ', '-')
+    strip_title = title.strip().replace(' ', '-')
 
     try_make_dir(domain)
     try_make_dir(domain + '/images')
